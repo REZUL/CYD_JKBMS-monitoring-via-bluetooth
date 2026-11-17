@@ -1,5 +1,11 @@
 # CYD JK-BMS Monitoring via Bluetooth
 
+<p align="center">
+  <img src="Screenshots/Main.jpg" width="32%">
+  <img src="Screenshots/Cells.jpg" width="32%">
+  <img src="Screenshots/Info.jpg" width="32%">
+</p>
+
 An autonomous battery monitoring system based on ESP32 and CYD (Cheap Yellow Display), designed to retrieve battery data from JK-BMS via Bluetooth Low Energy (BLE) and display real-time information on a TFT screen.
 
 ## 1. Project Overview
